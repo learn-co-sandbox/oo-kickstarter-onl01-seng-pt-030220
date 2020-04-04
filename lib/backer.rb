@@ -10,7 +10,7 @@ class Backer
     @backed_projects = []
    end 
   
-  def add_backer
+  def add_backer(backer)
     # b1 = backer.new(" ")
     @backed_projects << self
   end 
