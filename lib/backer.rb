@@ -16,5 +16,5 @@ class Backer
   end 
 end 
 
-backer = Backer.new("Avi")
-backer.name 
+# backer = Backer.new("Avi")
+# backer.name 
