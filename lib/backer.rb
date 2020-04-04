@@ -15,4 +15,6 @@ class Backer
     @backed_projects << self
   end 
 end 
+
 backer = Backer.new("Avi")
+backer.name 
