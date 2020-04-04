@@ -4,7 +4,7 @@ class Backer
   
   @backed_projects = []
   
-  def intialized(name)
+  def intialized
     @name = name 
   end 
   
