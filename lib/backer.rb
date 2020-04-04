@@ -7,7 +7,7 @@ class Backer
   # def intialized(backed_projects)
   #   @name = name 
   #   @project = project
-  end 
+  # end 
   
   def add_backer
     #b1 = backer.new(" ")
