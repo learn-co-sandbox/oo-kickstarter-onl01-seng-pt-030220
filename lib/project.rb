@@ -8,7 +8,7 @@ class Project
   end
   
   def add_backer(project)
-    project.title = 
+    project.title = "Project With So Much Amaze"
     @backers << self 
   end 
 end
